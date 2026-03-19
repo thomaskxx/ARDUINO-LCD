@@ -17,3 +17,6 @@ I2C display for Arduino
   - https://www.mathertel.de/Arduino/LiquidCrystal_PCF8574
     - Tahle funguje
     - Od Matthiase Hertella
+
+# SCHÉMA
+![](wiring.jpg)
