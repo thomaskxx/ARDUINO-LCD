@@ -19,4 +19,4 @@ I2C display for Arduino
     - Od Matthiase Hertella
 
 # SCHÉMA
-![](wiring.jpg)
+![](wiring2.png)
